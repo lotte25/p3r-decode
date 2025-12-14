@@ -1,4 +1,4 @@
-# p3r-decode
+# p3r-convert
 Helper tool for converting Persona 3 Reload saves to Steam version
 
 ## Usage
