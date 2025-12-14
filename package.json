@@ -1,0 +1,12 @@
+{
+  "name": "p3r-decode",
+  "version": "1.0.0",
+  "description": "Helper tool for converting Persona 3 Reload Xbox/GamePass saves to Steam",
+  "main": "decode.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
